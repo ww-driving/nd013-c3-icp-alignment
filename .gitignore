@@ -35,7 +35,7 @@
 *.exe
 *.out
 *.app
-ndt
+scan_matching_1
 
 ### CMake ###
 CMakeLists.txt.user
